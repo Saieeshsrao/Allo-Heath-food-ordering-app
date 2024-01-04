@@ -1,4 +1,13 @@
 
+##images
+
+![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/applying%20filter%20img.png)
+![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/homepage.png)
+![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/login.png)
+![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/multple%20filters.png)
+
+
+
 ## Run Locally
 
 Clone the project
