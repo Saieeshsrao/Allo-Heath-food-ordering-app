@@ -6,7 +6,7 @@
 ![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/login.png)
 ![image](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/a8342afdccc228bbd4fbadde4f349191b9116290/images/multple%20filters.png)
 
-[Link to Demo Video](https://github.com/Saieeshsrao/Allo-Heath-food-ordering-app/blob/553b855ff980d74de490574ebde2609c2e7a99ce/Demo%20video.mp4)
+[Link to Demo Video](https://drive.google.com/file/d/1M0GHv8hMqDuVf0lSwCgG9RKEvTNt15jX/view?usp=sharing)
 
 
 
